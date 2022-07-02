@@ -83,19 +83,12 @@
 
 
 ## Github Stats  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=meanshkumar&show_icons=true&count_private=true&hide_border=true" align="right" /></div>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meanshkumar&show_icons=true&locale=en&layout=compact" alt="" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meanshkumar&show_icons=true&locale=en" alt="meanshkumar" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meanshkumar&" alt="meanshkumar" /></p>
 
   
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
 <br />
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=meanshkumar&label=Profile%20views&color=cc6558&style=flat" alt="meanshkumar" /> </p>
